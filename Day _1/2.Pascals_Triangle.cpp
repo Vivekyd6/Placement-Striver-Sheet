@@ -1,4 +1,4 @@
- Problem Link :- https://leetcode.com/problems/pascals-triangle/
+//  Problem Link :- https://leetcode.com/problems/pascals-triangle/
 
 
  // SOlution :- 
@@ -21,4 +21,4 @@ public:
   
 };
 
-// Iterative solution , Time complexity :- 0(n*n), space solution :- 0(n*n) ( as for generating each row , we need 1D vector and then for whole 2D vector ). 
+// Iterative solution , Time complexity
