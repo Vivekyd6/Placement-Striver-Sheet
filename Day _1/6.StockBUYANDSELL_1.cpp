@@ -5,6 +5,16 @@
 // We just need to find what is the last minimum stock we have buyed and if we sell in future , 
 // How much max profit we can make . 
 
+1. Bruteforce solution :- 
+   We have 2 nested for loops and and we will maintain a max variable for storing answer.
+   TIme complexity :- 0(N*N)
+   Space - 0(1);
+
+
+
+2. Optimal Solution :- 
+  Insted of using two loops , just use one loop and here maintain two variable , 
+  one is for mini till that day and 2nd is for finding the maximum .
 
  class Solution {
  public:
