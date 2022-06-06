@@ -1,8 +1,8 @@
- Problem  Link :-  https://leetcode.com/problems/next-permutation/
+//   Problem  Link :-  https://leetcode.com/problems/next-permutation/
 
 
 
- /*  Brtueforce solution :- 
+ /*  Brtue-force solution :- 
    Finding all the permutation and store the result in 2d vector and then iterate over and find the next permutation from it .
    Time complexity :- 0(n!*n) whereas n is the for the permutation and searching for the desired permutation tales n .
 

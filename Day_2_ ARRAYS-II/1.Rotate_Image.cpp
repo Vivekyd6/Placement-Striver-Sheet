@@ -49,7 +49,7 @@ public:
 
 TIME COMPLEXITY :- Here Reverse will take (N*N ) as well as for transpose , it will take close to (N*N)
                 so overall complexity will be 0(N*N)
-SPACE COMPLEXITY :- As no extra space is used , so 0(1).
+SPACE COMPLEXITY :- As no extra space is used , so 0(1 ).
 
 
 
